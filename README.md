@@ -30,7 +30,7 @@ The data model is built with **one fact table** and **three dimension tables**:
 ---
 
 ## 📸 Dashboard Preview  
-![Sales Performance Dashboard](dashboard.png)  
+![Sales Performance Dashboard](https://github.com/Karan-Rawat2004/Power-BI-sales-Performance-Report/blob/main/dashborad.png?raw=true)  
 
 ---
 
